@@ -1,0 +1,6 @@
+{
+  "name": "SmartStorage",
+  "description": "Deterministic safe storage auditor with AI utility evaluation, prune scoring, and reversible quarantine cleanup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
